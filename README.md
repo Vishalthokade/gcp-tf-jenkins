@@ -23,5 +23,5 @@ The `main.tf` file contains the Terraform configuration to create a Google Cloud
 
 ## Prerequisites:
 
-A cloud provider account (e.g., Google Cloud Platform) with a deployable Jenkins instance
-Access to a GitHub repository
+- A cloud provider account (e.g., Google Cloud Platform) with a deployable Jenkins instance
+- Access to a GitHub repository
